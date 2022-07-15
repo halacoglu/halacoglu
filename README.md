@@ -17,4 +17,4 @@ Hi! My name is Osman and I'm a tech enthusiast.
 
 ### Visitors
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=halacoglu)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=halacoglu&left_color=gray&right_color=green)
