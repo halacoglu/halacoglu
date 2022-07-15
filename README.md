@@ -9,9 +9,10 @@ Hi! My name is Osman and I'm a tech enthusiast.
 [![Mi Box S 4K](https://img.shields.io/badge/Mi%20Box%20S%204K-FF6900?style=flat&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://www.mi.com/us/mi-box-s/)
 [![PlayStation 2](https://img.shields.io/badge/PlayStation%202-003791?style=flat&logo=playstation2&logoColor=FFFFFF&labelColor=003791)](https://en.wikipedia.org/wiki/PlayStation_2)
 [![PlayStation Classic](https://img.shields.io/badge/PlayStation%20Classic-00AC9F?style=flat&logo=playstation&logoColor=FFFFFF&labelColor=00AC9F)](https://en.wikipedia.org/wiki/PlayStation_Classic)
+[![CX 200 Street II](https://img.shields.io/badge/CX%20200%20Street%20II-131313?style=flat&logo=sennheiser&logoColor=FFFFFF&labelColor=131313)](https://en-us.sennheiser.com/stereo-earbuds-sound-isolating-cx-200-street-ii)
 [![Vodafone H300S](https://img.shields.io/badge/Vodafone%20H300S-E60000?style=flat&logo=vodafone&logoColor=FFFFFF&labelColor=E60000)](https://openwrt.org/toh/vodafone/vodafoneh300s)
 [![Logitech G102](https://img.shields.io/badge/Logitech%20G102-00B8FC?style=flat&logo=logitech&logoColor=FFFFFF&labelColor=00B8FC)](https://www.logitechg.com/en-us/products/gaming-mice/g203-prodigy-gaming-mouse.910-004842.html)
-[![CX 200 Street II](https://img.shields.io/badge/CX%20200%20Street%20II-000000?style=flat&logo=sennheiser&logoColor=FFFFFF&labelColor=000000)](https://en-us.sennheiser.com/stereo-earbuds-sound-isolating-cx-200-street-ii)
+
 
 ### Visitors
 
