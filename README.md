@@ -1,5 +1,3 @@
-[![Osman Halacoglu's GitHub stats](https://github-readme-stats.vercel.app/api?username=halacoglu&theme=yeblu&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 Hi! My name is Osman and I'm a tech enthusiast.
 
 ### Hardware
@@ -18,3 +16,7 @@ Hi! My name is Osman and I'm a tech enthusiast.
 ### Visitors
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=halacoglu&left_color=slategray&right_color=firebrick)](https://visitor-badge.glitch.me/)
+
+### Stats
+
+[![Osman Halacoglu's GitHub stats](https://github-readme-stats.vercel.app/api?username=halacoglu&theme=yeblu&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
