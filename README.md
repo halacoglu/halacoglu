@@ -1,5 +1,7 @@
 Hi! My name is Osman and I'm a tech enthusiast.
 
+[//]: # (Thanks for viewing my page!)
+
 ### Hardware
 
 [![OnePlus 7](https://img.shields.io/badge/OnePlus%207-F5010C?style=flat&logo=oneplus&logoColor=FFFFFF&labelColor=F5010C)](https://www.gsmarena.com/oneplus_7-9623.php)
