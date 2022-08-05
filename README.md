@@ -17,7 +17,7 @@ Hi! My name is Osman and I'm a tech enthusiast.
 
 ### OS
 
-[![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat&logo=windows&logoColor=FFFFFF&labelColor=0078D6)](https://www.microsoft.com/en-us/windows/)
+[![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat&logo=microsoft&logoColor=FFFFFF&labelColor=0078D6)](https://www.microsoft.com/en-us/windows/)
 [![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=popos&logoColor=FFFFFF&labelColor=48B9C7)](https://pop.system76.com/)
 [![Fedora](https://img.shields.io/badge/Fedora-072C61?style=flat&logo=fedora&logoColor=FFFFFF&labelColor=072C61)](https://getfedora.org/en/)
 
