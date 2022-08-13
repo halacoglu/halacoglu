@@ -24,6 +24,7 @@ Hi! My name is Osman and I'm a tech enthusiast.
 ### Contact
 
 [![Twitter](https://img.shields.io/badge/OsmanHalacoglu-1DA1F2?style=flat&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/OsmanHalacoglu)
+[![Instagram](https://img.shields.io/badge/Halacoglu-E4405F?style=flat&logo=instagram&logoColor=FFFFFF&labelColor=E4405F)](https://www.instagram.com/halacoglu/)
 
 ### Visitors
 
