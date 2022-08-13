@@ -26,6 +26,7 @@ Hi! My name is Osman and I'm a tech enthusiast.
 [![Twitter](https://img.shields.io/badge/OsmanHalacoglu-1DA1F2?style=flat&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/OsmanHalacoglu)
 [![Instagram](https://img.shields.io/badge/Halacoglu-E4405F?style=flat&logo=instagram&logoColor=FFFFFF&labelColor=E4405F)](https://www.instagram.com/halacoglu/)
 [![Facebook](https://img.shields.io/badge/OsmanHalacoglu-1877F2?style=flat&logo=facebook&logoColor=FFFFFF&labelColor=1877F2)](https://www.facebook.com/osmanhalacoglu/)
+[![WordPress](https://img.shields.io/badge/Halacoglu-21759B?style=flat&logo=wordpress&logoColor=FFFFFF&labelColor=21759B)](https://halacoglu.wordpress.com/)
 [![Outlook](https://img.shields.io/badge/OsmanHalacoglu-0078D4?style=flat&logo=microsoftoutlook&logoColor=FFFFFF&labelColor=0078D4)](mailto:osmanhalacoglu@windowslive.com)
 
 ### Visitors
