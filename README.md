@@ -21,6 +21,10 @@ Hi! My name is Osman and I'm a tech enthusiast.
 [![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=popos&logoColor=FFFFFF&labelColor=48B9C7)](https://pop.system76.com/)
 [![Fedora](https://img.shields.io/badge/Fedora-072C61?style=flat&logo=fedora&logoColor=FFFFFF&labelColor=072C61)](https://getfedora.org/en/)
 
+### Contact
+
+[![Twitter](https://img.shields.io/badge/OsmanHalacoglu-1DA1F2?style=flat&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/OsmanHalacoglu)
+
 ### Visitors
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=halacoglu&left_color=slategray&right_color=firebrick)](https://visitor-badge.glitch.me/)
