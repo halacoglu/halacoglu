@@ -15,7 +15,7 @@ Hi! My name is Osman and I'm a tech enthusiast.
 
 ### OS
 
-[![macOS Tahoe](https://img.shields.io/badge/macOS%20Tahoe-146ECA?style=flat&logo=apple&logoColor=333333&labelColor=10b9d7)](https://en.wikipedia.org/wiki/MacOS_Tahoe)
+[![macOS Tahoe](https://img.shields.io/badge/macOS%20Tahoe-146ECA?style=flat&logo=apple&logoColor=10b9d7&labelColor=333333)](https://en.wikipedia.org/wiki/MacOS_Tahoe)
 [![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=popos&logoColor=FFFFFF&labelColor=48B9C7)](https://pop.system76.com/)
 [![Fedora](https://img.shields.io/badge/Fedora-072C61?style=flat&logo=fedora&logoColor=FFFFFF&labelColor=072C61)](https://getfedora.org/en/)
 
