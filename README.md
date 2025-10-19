@@ -6,7 +6,7 @@ Hi! My name is Osman and I'm a tech enthusiast.
 
 [![iPhone 16 Pro](https://img.shields.io/badge/iPhone%2016%20Pro-FFFFFF?style=flat&logo=apple&logoColor=FFFFFF&labelColor=333333)](https://www.gsmarena.com/apple_iphone_16_pro-13315.php)
 [![MacBook Pro M4](https://img.shields.io/badge/MacBook%20Pro%20M4-FFFFFF?style=flat&logo=apple&logoColor=FFFFFF&labelColor=333333)](https://support.apple.com/en-us/121552)
-[![Fire Stick 4K Max](https://img.shields.io/badge/Fire%20Stick%204K%20Max-FC4C02?style=flat&logo=googletv&logoColor=FFFFFF&labelColor=333333)](https://developer.amazon.com/docs/device-specs/device-specifications-fire-tv-streaming-media-player.html?v=ftvstick4kmax_gen2_16)
+[![Fire Stick 4K Max](https://img.shields.io/badge/Fire%20Stick%204K%20Max-b44a35?style=flat&logo=googletv&logoColor=000000&labelColor=bd9b6e)](https://developer.amazon.com/docs/device-specs/device-specifications-fire-tv-streaming-media-player.html?v=ftvstick4kmax_gen2_16)
 [![PlayStation 2](https://img.shields.io/badge/PlayStation%202-003791?style=flat&logo=playstation&logoColor=000000&labelColor=fee91f)](https://en.wikipedia.org/wiki/PlayStation_2)
 [![PlayStation Classic](https://img.shields.io/badge/PlayStation%20Classic-00AB9F?style=flat&logo=playstation&logoColor=DF0024&labelColor=C0C0C0)](https://en.wikipedia.org/wiki/PlayStation_Classic)
 [![Nothing Ear Stick](https://img.shields.io/badge/Nothing%20Ear%20Stick-333333?style=flat&logo=listmonk&logoColor=FFFFFF&labelColor=CC092F)](https://en-us.sennheiser.com/stereo-earbuds-sound-isolating-cx-200-street-ii)
