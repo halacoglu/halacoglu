@@ -6,7 +6,7 @@ Hi! My name is Osman and I'm a tech enthusiast.
 
 [![iPhone 16 Pro](https://img.shields.io/badge/iPhone%2016%20Pro-FFFFFF?style=flat&logo=apple&logoColor=FFFFFF&labelColor=333333)](https://www.gsmarena.com/apple_iphone_16_pro-13315.php)
 [![MacBook Pro M4](https://img.shields.io/badge/MacBook%20Pro%20M4-FFFFFF?style=flat&logo=apple&logoColor=FFFFFF&labelColor=333333)](https://support.apple.com/en-us/121552)
-[![Nothing Ear Stick](https://img.shields.io/badge/Nothing%20Ear%20Stick-333333?style=flat&logo=listmonk&logoColor=FFFFFF&labelColor=CC092F)](https://intl.nothing.tech/products/ear-stick?Colour=White)
+[![Nothing Ear Stick](https://img.shields.io/badge/Nothing%20Ear%20Stick-333333?style=flat&logo=listmonk&logoColor=FFFFFF&labelColor=CC092F)](https://intl.nothing.tech/products/ear-stick?Colour=White)  
 [![Asus DSL-AX82U](https://img.shields.io/badge/Asus%20DSL%20AX82U-333333?style=flat&logo=asus&logoColor=FFFFFF&labelColor=003791)](https://www.asus.com/networking-iot-servers/modem-routers/all-series/dsl-ax82u/)
 [![FRITZ!Box 7590](https://img.shields.io/badge/FRITZ!Box%207590-FFFFFF?style=flat&logo=fritz&logoColor=FFFFFF&labelColor=E2001A)](https://techinfodepot.shoutwiki.com/wiki/AVM_FRITZ!Box_7590)
 [![Fire Stick 4K Max](https://img.shields.io/badge/Fire%20Stick%204K%20Max-dd5740?style=flat&logo=googletv&logoColor=000000&labelColor=bd9b6e)](https://developer.amazon.com/docs/device-specs/device-specifications-fire-tv-streaming-media-player.html?v=ftvstick4kmax_gen2_16)
