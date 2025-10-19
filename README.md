@@ -4,7 +4,7 @@ Hi! My name is Osman and I'm a tech enthusiast.
 
 ### Hardware
 
-[![iPhone 16 Pro](https://img.shields.io/badge/OnePlus%207-F5010C?style=flat&logo=apple&logoColor=000000&labelColor=FFFFFF)](https://www.gsmarena.com/oneplus_7-9623.php)
+[![iPhone 16 Pro](https://img.shields.io/badge/iPhone%2016%20-FFFFFF?style=flat&logo=apple&logoColor=000000&labelColor=FFFFFF)](https://www.gsmarena.com/oneplus_7-9623.php)
 [![MSI Modern 14](https://img.shields.io/badge/MSI%20Modern%2014-333333?style=flat&logo=msibusiness&logoColor=FFFFFF&labelColor=333333)](https://www.msi.com/Business-Productivity/Modern-14-B11X)
 [![Galaxy Watch 4](https://img.shields.io/badge/Galaxy%20Watch%204-1428A0?style=flat&logo=samsung&logoColor=FFFFFF&labelColor=1428A0)](https://www.samsung.com/us/watches/galaxy-watch4/)
 [![Fire Stick 4K](https://img.shields.io/badge/Fire%20Stick%204K-FC4C02?style=flat&logo=amazonfiretv&logoColor=FFFFFF&labelColor=FC4C02)](https://www.techradar.com/reviews/amazon-fire-tv-stick-4k)
