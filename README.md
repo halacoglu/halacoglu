@@ -9,7 +9,7 @@ Hi! My name is Osman and I'm a tech enthusiast.
 [![Fire Stick 4K Max](https://img.shields.io/badge/Fire%20Stick%204K%20Max-dd5740?style=flat&logo=googletv&logoColor=000000&labelColor=bd9b6e)](https://developer.amazon.com/docs/device-specs/device-specifications-fire-tv-streaming-media-player.html?v=ftvstick4kmax_gen2_16)
 [![PlayStation 2](https://img.shields.io/badge/PlayStation%202-003791?style=flat&logo=playstation&logoColor=000000&labelColor=fee91f)](https://en.wikipedia.org/wiki/PlayStation_2)
 [![PlayStation Classic](https://img.shields.io/badge/PlayStation%20Classic-00AB9F?style=flat&logo=playstation&logoColor=DF0024&labelColor=C0C0C0)](https://en.wikipedia.org/wiki/PlayStation_Classic)
-[![Nothing Ear Stick](https://img.shields.io/badge/Nothing%20Ear%20Stick-333333?style=flat&logo=listmonk&logoColor=FFFFFF&labelColor=CC092F)](https://en-us.sennheiser.com/stereo-earbuds-sound-isolating-cx-200-street-ii)
+[![Nothing Ear Stick](https://img.shields.io/badge/Nothing%20Ear%20Stick-333333?style=flat&logo=listmonk&logoColor=FFFFFF&labelColor=CC092F)](https://intl.nothing.tech/products/ear-stick?Colour=White)
 [![Asus DSL-AX82U](https://img.shields.io/badge/Asus%20DSL%20AX82U-333333?style=flat&logo=asus&logoColor=FFFFFF&labelColor=003791)](https://openwrt.org/toh/vodafone/vodafoneh300s)
 [![FRITZ!Box 7590](https://img.shields.io/badge/FRITZ!Box%207590-FFFFFF?style=flat&logo=fritz&logoColor=FFFFFF&labelColor=E2001A)](https://techinfodepot.shoutwiki.com/wiki/AVM_FRITZ!Box_7590)
 
