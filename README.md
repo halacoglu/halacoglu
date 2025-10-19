@@ -8,7 +8,6 @@ Hi! My name is Osman and I'm a tech enthusiast.
 [![MacBook Pro M4](https://img.shields.io/badge/MacBook%20Pro%20M4-C0C0C0?style=flat&logo=apple&logoColor=000000&labelColor=C0C0C0)](https://support.apple.com/en-us/121552)
 [![MSI Modern 14](https://img.shields.io/badge/MSI%20Modern%2014-333333?style=flat&logo=msibusiness&logoColor=FFFFFF&labelColor=333333)](https://www.msi.com/Business-Productivity/Modern-14-B11X)
 [![Fire Stick 4K Max 2025](https://img.shields.io/badge/Fire%20Stick%204K%20Max%202025-FC4C02?style=flat&logo=googletv&logoColor=FFFFFF&labelColor=FC4C02)](https://www.techradar.com/reviews/amazon-fire-tv-stick-4k)
-[![Mi Box S 4K](https://img.shields.io/badge/Mi%20Box%20S%204K-FF6900?style=flat&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://www.mi.com/us/mi-box-s/)
 [![PlayStation 2](https://img.shields.io/badge/PlayStation%202-003791?style=flat&logo=playstation2&logoColor=FFFFFF&labelColor=003791)](https://en.wikipedia.org/wiki/PlayStation_2)
 [![PlayStation Classic](https://img.shields.io/badge/PlayStation%20Classic-00AC9F?style=flat&logo=playstation&logoColor=FFFFFF&labelColor=00AC9F)](https://en.wikipedia.org/wiki/PlayStation_Classic)
 [![CX 200 Street II](https://img.shields.io/badge/CX%20200%20Street%20II-333333?style=flat&logo=sennheiser&logoColor=FFFFFF&labelColor=333333)](https://en-us.sennheiser.com/stereo-earbuds-sound-isolating-cx-200-street-ii)
