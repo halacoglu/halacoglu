@@ -5,7 +5,7 @@ Hi! My name is Osman and I'm a tech enthusiast.
 ### Hardware
 
 [![iPhone 16 Pro](https://img.shields.io/badge/iPhone%2016%20Pro-FFFFFF?style=flat&logo=apple&logoColor=FFFFFF&labelColor=333333)](https://www.gsmarena.com/apple_iphone_16_pro-13315.php)
-[![MacBook Pro M4](https://img.shields.io/badge/MacBook%20Pro%20M4-C0C0C0?style=flat&logo=apple&logoColor=C0C0C0&labelColor=333333)](https://support.apple.com/en-us/121552)
+[![MacBook Pro M4](https://img.shields.io/badge/MacBook%20Pro%20M4-C0C0C0?style=flat&logo=apple&logoColor=FFFFFF&labelColor=333333)](https://support.apple.com/en-us/121552)
 [![Fire Stick 4K Max 2025](https://img.shields.io/badge/Fire%20Stick%204K%20Max%202025-FC4C02?style=flat&logo=googletv&logoColor=FFFFFF&labelColor=333333)](https://www.techradar.com/reviews/amazon-fire-tv-stick-4k)
 [![PlayStation 2](https://img.shields.io/badge/PlayStation%202-003791?style=flat&logo=playstation&logoColor=000000&labelColor=fee91f)](https://en.wikipedia.org/wiki/PlayStation_2)
 [![PlayStation Classic](https://img.shields.io/badge/PlayStation%20Classic-00AB9F?style=flat&logo=playstation&logoColor=DF0024&labelColor=C0C0C0)](https://en.wikipedia.org/wiki/PlayStation_Classic)
