@@ -10,8 +10,7 @@ Hi! My name is Osman and I'm a tech enthusiast.
 [![PlayStation 2](https://img.shields.io/badge/PlayStation%202-003791?style=flat&logo=playstation&logoColor=000000&labelColor=fee91f)](https://en.wikipedia.org/wiki/PlayStation_2)
 [![PlayStation Classic](https://img.shields.io/badge/PlayStation%20Classic-00AB9F?style=flat&logo=playstation&logoColor=DF0024&labelColor=C0C0C0)](https://en.wikipedia.org/wiki/PlayStation_Classic)
 [![Nothing Ear Stick](https://img.shields.io/badge/Nothing%20Ear%20Stick-333333?style=flat&logo=listmonk&logoColor=FFFFFF&labelColor=CC092F)](https://en-us.sennheiser.com/stereo-earbuds-sound-isolating-cx-200-street-ii)
-[![Vodafone H300S](https://img.shields.io/badge/Vodafone%20H300S-E60000?style=flat&logo=vodafone&logoColor=FFFFFF&labelColor=E60000)](https://openwrt.org/toh/vodafone/vodafoneh300s)
-[![Logitech G102](https://img.shields.io/badge/Logitech%20G102-00B8FC?style=flat&logo=logitech&logoColor=FFFFFF&labelColor=00B8FC)](https://www.logitechg.com/en-us/products/gaming-mice/g203-prodigy-gaming-mouse.910-004842.html)
+[![Asus DSL-AX82U](https://img.shields.io/badge/Asus%20DSL-AX82U-E60000?style=flat&logo=vodafone&logoColor=FFFFFF&labelColor=333333)](https://openwrt.org/toh/vodafone/vodafoneh300s)
 
 ### OS
 
