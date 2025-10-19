@@ -10,7 +10,7 @@ Hi! My name is Osman and I'm a tech enthusiast.
 [![PlayStation 2](https://img.shields.io/badge/PlayStation%202-003791?style=flat&logo=playstation&logoColor=000000&labelColor=fee91f)](https://en.wikipedia.org/wiki/PlayStation_2)
 [![PlayStation Classic](https://img.shields.io/badge/PlayStation%20Classic-00AB9F?style=flat&logo=playstation&logoColor=DF0024&labelColor=C0C0C0)](https://en.wikipedia.org/wiki/PlayStation_Classic)
 [![Nothing Ear Stick](https://img.shields.io/badge/Nothing%20Ear%20Stick-333333?style=flat&logo=listmonk&logoColor=FFFFFF&labelColor=CC092F)](https://en-us.sennheiser.com/stereo-earbuds-sound-isolating-cx-200-street-ii)
-[![Asus DSL-AX82U](https://img.shields.io/badge/Asus%20DSL%20AX82U-333333?style=flat&logo=asus&logoColor=333333&labelColor=fee91f)](https://openwrt.org/toh/vodafone/vodafoneh300s)
+[![Asus DSL-AX82U](https://img.shields.io/badge/Asus%20DSL%20AX82U-333333?style=flat&logo=asus&logoColor=333333&labelColor=003791)](https://openwrt.org/toh/vodafone/vodafoneh300s)
 
 ### OS
 
