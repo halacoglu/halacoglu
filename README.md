@@ -29,4 +29,4 @@ Hi! My name is Osman and I'm a tech enthusiast.
 
 ### Stats
 
-[![Osman's GitHub stats](https://github-stats-extended.vercel.app/api?username=halacoglu&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+[![Osman's GitHub stats](https://github-stats-extended.vercel.app/api?username=halacoglu&show_icons=true&rank_icon=github&theme=radical)](https://github.com/stats-organization/github-stats-extended)
