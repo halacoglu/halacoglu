@@ -1,4 +1,28 @@
 
+name: Update GitHub Membership Badge
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-membership-badge
+  cancel-in-progress: false
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Calculate GitHub membership
         run: |
           python3 <<'PY'
@@ -33,9 +57,15 @@
 
           if days < 0:
               months -= 1
+
               previous_month = today.month - 1 or 12
-              previous_year = today.year if today.month > 1 else today.year - 1
-              days += monthrange(previous_year, previous_month)[1]
+              previous_year = (
+                  today.year if today.month > 1 else today.year - 1
+              )
+
+              days += monthrange(
+                  previous_year, previous_month
+              )[1]
 
           if months < 0:
               years -= 1
@@ -57,3 +87,19 @@
           print(f"GitHub membership: {message}")
           print(f"Account created: {created}")
           PY
+
+      - name: Commit updated badge data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add github-years.json
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update GitHub membership badge"
+
+            git pull --rebase origin main
+            git push origin HEAD:main
+          else
+            echo "Badge is already up to date."
+          fi
