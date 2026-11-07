@@ -1,0 +1,190 @@
+
+name: Update GitHub Profile Statistics
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-profile-statistics
+  cancel-in-progress: false
+
+jobs:
+  update-statistics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Calculate GitHub statistics
+        run: |
+          python3 <<'PY'
+          import json
+          import urllib.request
+          from datetime import datetime, timezone
+          from calendar import monthrange
+
+          username = "halacoglu"
+
+          def get_json(url):
+              request = urllib.request.Request(
+                  url,
+                  headers={
+                      "Accept": "application/vnd.github+json",
+                      "User-Agent": "GitHub-Profile-Statistics"
+                  }
+              )
+
+              with urllib.request.urlopen(request, timeout=30) as response:
+                  return json.load(response)
+
+          def save_badge(filename, label, message, color):
+              badge = {
+                  "schemaVersion": 1,
+                  "label": label,
+                  "message": str(message),
+                  "color": color
+              }
+
+              with open(filename, "w") as file:
+                  json.dump(badge, file, indent=2)
+                  file.write("\n")
+
+          # 1. Account information and membership duration
+
+          user = get_json(
+              f"https://api.github.com/users/{username}"
+          )
+
+          created = datetime.fromisoformat(
+              user["created_at"].replace("Z", "+00:00")
+          ).date()
+
+          today = datetime.now(timezone.utc).date()
+
+          years = today.year - created.year
+          months = today.month - created.month
+          days = today.day - created.day
+
+          if days < 0:
+              months -= 1
+
+              previous_month = today.month - 1 or 12
+              previous_year = (
+                  today.year if today.month > 1 else today.year - 1
+              )
+
+              days += monthrange(
+                  previous_year, previous_month
+              )[1]
+
+          if months < 0:
+              years -= 1
+              months += 12
+
+          membership = (
+              f"{years} years {months} months {days} days"
+          )
+
+          save_badge(
+              "github-years.json",
+              "GitHub member",
+              membership,
+              "181717"
+          )
+
+          # 2. Public repositories and total stars
+
+          repositories = []
+          page = 1
+
+          while True:
+              url = (
+                  f"https://api.github.com/users/{username}/repos"
+                  f"?type=owner&per_page=100&page={page}"
+              )
+
+              batch = get_json(url)
+              repositories.extend(batch)
+
+              if len(batch) < 100:
+                  break
+
+              page += 1
+
+          repository_count = len(repositories)
+
+          total_stars = sum(
+              repo["stargazers_count"]
+              for repo in repositories
+          )
+
+          save_badge(
+              "github-repos.json",
+              "Public repositories",
+              repository_count,
+              "0969DA"
+          )
+
+          save_badge(
+              "github-stars.json",
+              "Total stars",
+              total_stars,
+              "E3B341"
+          )
+
+          # 3. Public GitHub contributions
+
+          contribution_data = get_json(
+              f"https://github-contributions-api.jogruber.de/v4/"
+              f"{username}?y=all"
+          )
+
+          total_contributions = sum(
+              contribution_data["total"].values()
+          )
+
+          save_badge(
+              "github-contributions.json",
+              "Contributions",
+              total_contributions,
+              "8957E5"
+          )
+
+          # 4. Display results
+
+          print("GitHub Profile Statistics")
+          print("-------------------------")
+          print(f"Membership: {membership}")
+          print(f"Public repositories: {repository_count}")
+          print(f"Total stars: {total_stars}")
+          print(f"Contributions: {total_contributions}")
+
+          print("\nAll badge JSON files generated successfully.")
+          PY
+
+      - name: Commit updated statistics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add github-years.json
+          git add github-repos.json
+          git add github-stars.json
+          git add github-contributions.json
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update GitHub profile statistics"
+
+            git pull --rebase origin main
+            git push origin HEAD:main
+          else
+            echo "All statistics are already up to date."
+          fi
