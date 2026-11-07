@@ -29,4 +29,8 @@ Hi! My name is Osman and I'm a tech enthusiast.
 
 ### Stats
 
-[![Osman's GitHub stats](https://github-stats-extended.vercel.app/api?username=halacoglu&show_icons=true&rank_icon=github&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+[![Years Badge](https://badges.pufler.dev/years/halacoglu)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/halacoglu)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/halacoglu)](https://badges.pufler.dev)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/halacoglu/datebar?style=flat)
