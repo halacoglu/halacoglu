@@ -30,9 +30,6 @@ Hi! My name is Osman and I'm a tech enthusiast.
 ### GitHub Statistics
 
 [![GitHub Membership](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhalacoglu%2Fhalacoglu%2Fmain%2Fgithub-years.json&logo=github&style=flat)](https://github.com/halacoglu)
-
 [![Repositories](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhalacoglu%2Fhalacoglu%2Fmain%2Fgithub-repos.json&logo=github&style=flat)](https://github.com/halacoglu?tab=repositories)
-
 [![Total Stars](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhalacoglu%2Fhalacoglu%2Fmain%2Fgithub-stars.json&logo=github&style=flat)](https://github.com/halacoglu?tab=repositories)
-
 [![Contributions](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhalacoglu%2Fhalacoglu%2Fmain%2Fgithub-contributions.json&logo=github&style=flat)](https://github.com/halacoglu)
