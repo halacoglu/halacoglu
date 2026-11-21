@@ -7,7 +7,7 @@ Hi! My name is Osman and I'm a tech enthusiast.
 [![iPhone 16 Pro](https://img.shields.io/badge/iPhone%2016%20Pro-FFFFFF?style=flat&logo=apple&logoColor=FFFFFF&labelColor=333333)](https://www.gsmarena.com/apple_iphone_16_pro-13315.php)
 [![MacBook Pro M4](https://img.shields.io/badge/MacBook%20Pro%20M4-FFFFFF?style=flat&logo=apple&logoColor=FFFFFF&labelColor=333333)](https://support.apple.com/en-us/121552)
 [![AirPods 4 ANC](https://img.shields.io/badge/AirPods%204%20ANC-FFFFFF?style=flat&logo=apple&logoColor=FFFFFF&labelColor=333333)](https://support.apple.com/121204)  
-[![Fire Stick 4K Max](https://img.shields.io/badge/Fire%20Stick%204K%20Max-dd5740?style=flat&logo=googletv&logoColor=000000&labelColor=bd9b6e)](https://developer.amazon.com/docs/device-specs/device-specifications-fire-tv-streaming-media-player.html?v=ftvstick4kmax_gen2_16)
+[![Fire Stick 4K Max](https://img.shields.io/badge/Fire%20Stick%204K%20Max-dd5740?style=flat&logo=googletv&logoColor=ffffff&labelColor=dd5740)](https://developer.amazon.com/docs/device-specs/device-specifications-fire-tv-streaming-media-player.html?v=ftvstick4kmax_gen2_16)
 [![PlayStation 2](https://img.shields.io/badge/PlayStation%202-003791?style=flat&logo=playstation&logoColor=000000&labelColor=fee91f)](https://en.wikipedia.org/wiki/PlayStation_2)
 [![PlayStation Classic](https://img.shields.io/badge/PlayStation%20Classic-bebdc3?style=flat&logo=playstation&logoColor=E2001A&labelColor=484c52)](https://en.wikipedia.org/wiki/PlayStation_Classic)  
 [![Asus DSL-AX82U](https://img.shields.io/badge/Asus%20DSL%20AX82U-003791?style=flat&logo=asus&logoColor=FFFFFF&labelColor=003791)](https://www.asus.com/networking-iot-servers/modem-routers/all-series/dsl-ax82u/)
