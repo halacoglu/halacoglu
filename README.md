@@ -1,4 +1,4 @@
-Hi! My name is Osman and I'm a tech enthusiast.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F72C14&multiline=true&width=435&height=85&lines=Hey+there!;My+name+is+Osman.;I'm+a+tech+enthusiast.)](https://git.io/typing-svg)
 
 [//]: # (Thanks for viewing my page!)
 
