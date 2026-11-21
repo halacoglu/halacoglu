@@ -18,7 +18,8 @@ Hi! My name is Osman and I'm a tech enthusiast.
 [![macOS Golden Gate](https://img.shields.io/badge/macOS%20Golden%20Gate-146ECA?style=flat&logo=apple&logoColor=FFFFFF&labelColor=333333)](https://en.wikipedia.org/wiki/MacOS_Golden_Gate)
 [![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=popos&logoColor=ffad00&labelColor=574f4a)](https://pop.system76.com/)
 [![Fedora](https://img.shields.io/badge/Fedora-79db32?style=flat&logo=fedora&logoColor=FFFFFF&labelColor=072C61)](https://getfedora.org/en/)  
-[![Ghostty](https://img.shields.io/badge/Ghostty-0922AF?style=flat&logo=ghostty&logoColor=82BDFF&labelColor=0922AF)](https://ghostty.org/) 
+[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-707070?style=flat&logo=sublimetext&logoColor=FF9800&labelColor=707070)](https://www.sublimetext.com/)
+[![Ghostty](https://img.shields.io/badge/Ghostty-0922AF?style=flat&logo=ghostty&logoColor=82BDFF&labelColor=0922AF)](https://ghostty.org/)
 
 ### Contact
 
