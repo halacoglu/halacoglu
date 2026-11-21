@@ -11,7 +11,7 @@ Hi! My name is Osman and I'm a tech enthusiast.
 [![PlayStation 2](https://img.shields.io/badge/PlayStation%202-003791?style=flat&logo=playstation&logoColor=000000&labelColor=fee91f)](https://en.wikipedia.org/wiki/PlayStation_2)
 [![PlayStation Classic](https://img.shields.io/badge/PlayStation%20Classic-bebdc3?style=flat&logo=playstation&logoColor=E2001A&labelColor=484c52)](https://en.wikipedia.org/wiki/PlayStation_Classic)  
 [![Asus DSL-AX82U](https://img.shields.io/badge/Asus%20DSL%20AX82U-333333?style=flat&logo=asus&logoColor=FFFFFF&labelColor=003791)](https://www.asus.com/networking-iot-servers/modem-routers/all-series/dsl-ax82u/)
-[![FRITZ!Box 7590](https://img.shields.io/badge/FRITZ!Box%207590-FFFFFF?style=flat&logo=fritz&logoColor=FFFFFF&labelColor=E2001A)](https://techinfodepot.shoutwiki.com/wiki/AVM_FRITZ!Box_7590)
+[![FRITZ!Box 7590](https://img.shields.io/badge/FRITZ!Box%207590-E2001A?style=flat&logo=fritz&logoColor=FFFFFF&labelColor=E2001A)](https://techinfodepot.shoutwiki.com/wiki/AVM_FRITZ!Box_7590)
 
 ### Software
 
