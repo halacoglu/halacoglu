@@ -6,11 +6,11 @@
 
 [![iPhone 16 Pro](https://img.shields.io/badge/iPhone%2016%20Pro-333333?style=flat&logo=apple&logoColor=FFFFFF&labelColor=333333)](https://www.gsmarena.com/apple_iphone_16_pro-13315.php)
 [![MacBook Pro M4](https://img.shields.io/badge/MacBook%20Pro%20M4-333333?style=flat&logo=apple&logoColor=FFFFFF&labelColor=333333)](https://support.apple.com/en-us/121552)
-[![AirPods 4 ANC](https://img.shields.io/badge/AirPods%204%20ANC-333333?style=flat&logo=apple&logoColor=FFFFFF&labelColor=333333)](https://support.apple.com/121204)  
+[![AirPods 4 ANC](https://img.shields.io/badge/AirPods%204%20ANC-333333?style=flat&logo=apple&logoColor=FFFFFF&labelColor=333333)](https://support.apple.com/121204)
 [![XBOX Series S](https://custom-icon-badges.demolab.com/badge/XBOX%20Series%20S-0f7c10?style=flat&logo=xbox&logoColor=ffffff&labelColor=0f7c10)](https://www.xbox.com/consoles/xbox-series-s)
 [![PlayStation 5](https://img.shields.io/badge/PlayStation%205-003791?style=flat&logo=playstation5&logoColor=ffffff&labelColor=003791)](https://www.playstation.com/ps5/)
 [![PlayStation 2](https://img.shields.io/badge/PlayStation%202-fee91f?style=flat&logo=playstation&logoColor=000000&labelColor=fee91f)](https://en.wikipedia.org/wiki/PlayStation_2)
-[![PlayStation Classic](https://img.shields.io/badge/PlayStation%20Classic-bebdc3?style=flat&logo=playstation&logoColor=df0024&labelColor=bebdc3)](https://en.wikipedia.org/wiki/PlayStation_Classic)  
+[![PlayStation Classic](https://img.shields.io/badge/PlayStation%20Classic-bebdc3?style=flat&logo=playstation&logoColor=df0024&labelColor=bebdc3)](https://en.wikipedia.org/wiki/PlayStation_Classic)
 [![Fire Stick 4K Max](https://img.shields.io/badge/Fire%20Stick%204K%20Max-dd5740?style=flat&logo=googletv&logoColor=ffffff&labelColor=dd5740)](https://developer.amazon.com/docs/device-specs/device-specifications-fire-tv-streaming-media-player.html?v=ftvstick4kmax_gen2_16)
 [![Asus DSL-AX82U](https://img.shields.io/badge/Asus%20DSL%20AX82U-003791?style=flat&logo=asus&logoColor=FFFFFF&labelColor=003791)](https://www.asus.com/networking-iot-servers/modem-routers/all-series/dsl-ax82u/)
 [![FRITZ!Box 7590](https://img.shields.io/badge/FRITZ!Box%207590-E2001A?style=flat&logo=fritz&logoColor=FFFFFF&labelColor=E2001A)](https://techinfodepot.shoutwiki.com/wiki/AVM_FRITZ!Box_7590)
@@ -19,7 +19,7 @@
 
 [![macOS Golden Gate](https://img.shields.io/badge/macOS%20Golden%20Gate-91775d?style=flat&logo=apple&logoColor=FFFFFF&labelColor=91775d)](https://en.wikipedia.org/wiki/MacOS_Golden_Gate)
 [![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=popos&logoColor=ffffff&labelColor=48B9C7)](https://pop.system76.com/)
-[![Fedora](https://img.shields.io/badge/Fedora-284371?style=flat&logo=fedora&logoColor=FFFFFF&labelColor=284371)](https://getfedora.org/en/)  
+[![Fedora](https://img.shields.io/badge/Fedora-284371?style=flat&logo=fedora&logoColor=FFFFFF&labelColor=284371)](https://getfedora.org/en/)
 [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-494949?style=flat&logo=sublimetext&logoColor=FF9800&labelColor=494949)](https://www.sublimetext.com/)
 [![Ghostty](https://img.shields.io/badge/Ghostty-0922AF?style=flat&logo=ghostty&logoColor=82BDFF&labelColor=0922AF)](https://ghostty.org/)
 
