@@ -17,7 +17,7 @@
 
 ### Software
 
-[![macOS Golden Gate](https://img.shields.io/badge/macOS%20Golden%20Gate-146ECA?style=flat&logo=apple&logoColor=FFFFFF&labelColor=333333)](https://en.wikipedia.org/wiki/MacOS_Golden_Gate)
+[![macOS Golden Gate](https://img.shields.io/badge/macOS%20Golden%20Gate-91775d?style=flat&logo=apple&logoColor=FFFFFF&labelColor=91775d)](https://en.wikipedia.org/wiki/MacOS_Golden_Gate)
 [![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=popos&logoColor=ffad00&labelColor=574f4a)](https://pop.system76.com/)
 [![Fedora](https://img.shields.io/badge/Fedora-79db32?style=flat&logo=fedora&logoColor=FFFFFF&labelColor=072C61)](https://getfedora.org/en/)  
 [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-494949?style=flat&logo=sublimetext&logoColor=FF9800&labelColor=494949)](https://www.sublimetext.com/)
